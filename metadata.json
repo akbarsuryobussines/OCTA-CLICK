@@ -1,0 +1,6 @@
+{
+  "name": "Octo Klik",
+  "description": "Platform perbankan promosi digital dengan pusat diskon merchant, kalkulator cicilan cerdas, simulasi kartu kredit, dan dashboard transaksi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
